@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Movie API with Graphql",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.15.1"
+  }
 }
